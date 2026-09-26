@@ -1,0 +1,6 @@
+*
+!.gitignore
+!example1.py
+!example2.py
+!example-inject1.py
+!example-inject2.py

@@ -1,0 +1,7 @@
+*
+!.gitignore
+!.gitmodules
+!Makefile
+!include/
+!src/
+!examples/

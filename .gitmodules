@@ -1,0 +1,3 @@
+[submodule "dlsym-intercept"]
+	path = dlsym-intercept
+	url = https://github.com/rouvenscholz/dlsym-intercept.git

@@ -1,0 +1,4 @@
+*
+!.gitignore
+!pyinstaller-inject.c
+!moduleedit.py
